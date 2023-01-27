@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Daniel-Narpaev_first-react-progect/static/css/main.8db0bb76.css",
+    "main.js": "/Daniel-Narpaev_first-react-progect/static/js/main.b071cef9.js",
+    "static/media/BackgroundImg.jpg": "/Daniel-Narpaev_first-react-progect/static/media/BackgroundImg.0eb26fbec2e8b4d6fde1.jpg",
+    "static/media/Basket-icon.svg": "/Daniel-Narpaev_first-react-progect/static/media/Basket-icon.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/Daniel-Narpaev_first-react-progect/index.html",
+    "static/media/plus-icon.svg": "/Daniel-Narpaev_first-react-progect/static/media/plus-icon.f6449d6005345c09378ddf02e862b973.svg",
+    "static/media/incriment-icons.svg": "/Daniel-Narpaev_first-react-progect/static/media/incriment-icons.5e2025a96ba73c4c7c15f2ed65f9ccd4.svg",
+    "static/media/dicriment-icons.svg": "/Daniel-Narpaev_first-react-progect/static/media/dicriment-icons.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.8db0bb76.css.map": "/Daniel-Narpaev_first-react-progect/static/css/main.8db0bb76.css.map",
+    "main.b071cef9.js.map": "/Daniel-Narpaev_first-react-progect/static/js/main.b071cef9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db0bb76.css",
+    "static/js/main.b071cef9.js"
+  ]
+}
